@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JCamera2Demo</string>
+    <string name="OK">OK</string>
+    <string name="btn1_str">Capture</string>
+    <string name="need_permissions">该App需要打开摄像头拍照，并保存到设备上</string>
+    <string name="ERROR_CAMERA_DEVICE">相机错误！</string>
+    <string name="ERROR_CAMERA_DISABLED">相机不可用！</string>
+    <string name="ERROR_CAMERA_IN_USE">相机正在被使用！</string>
+    <string name="ERROR_CAMERA_SERVICE">相机服务异常！</string>
+    <string name="ERROR_MAX_CAMERAS_IN_USE">相机已达到最大使用数目！</string>
+    <string name="CAMERA_OPENED">相机已打开！</string>
+    <string name="CAMERA_DISCONNECTED">相机已断开！</string>
+
+
+</resources>
